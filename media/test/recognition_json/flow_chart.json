@@ -1,0 +1,60 @@
+[
+  {
+    "label": "fig",
+    "text": "![Figure](figures/flow_chart_figure_000.png)",
+    "figure_path": "figures/flow_chart_figure_000.png",
+    "bbox": [
+      9,
+      16,
+      74,
+      44
+    ],
+    "reading_order": 0
+  },
+  {
+    "label": "fig",
+    "text": "![Figure](figures/flow_chart_figure_001.png)",
+    "figure_path": "figures/flow_chart_figure_001.png",
+    "bbox": [
+      229,
+      3,
+      713,
+      590
+    ],
+    "reading_order": 1
+  },
+  {
+    "label": "fig",
+    "text": "![Figure](figures/flow_chart_figure_002.png)",
+    "figure_path": "figures/flow_chart_figure_002.png",
+    "bbox": [
+      22,
+      155,
+      65,
+      488
+    ],
+    "reading_order": 2
+  },
+  {
+    "label": "foot",
+    "bbox": [
+      37,
+      599,
+      55,
+      618
+    ],
+    "text": "国",
+    "reading_order": 3
+  },
+  {
+    "label": "foot",
+    "bbox": [
+      787,
+      599,
+      916,
+      627
+    ],
+    "text": "2,420×1.36",
+    "reading_order": 4
+  }
+]

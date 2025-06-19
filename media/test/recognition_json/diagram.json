@@ -1,0 +1,203 @@
+[
+  {
+    "label": "fig",
+    "text": "![Figure](figures/diagram_figure_000.png)",
+    "figure_path": "figures/diagram_figure_000.png",
+    "bbox": [
+      73,
+      43,
+      299,
+      152
+    ],
+    "reading_order": 0
+  },
+  {
+    "label": "cap",
+    "bbox": [
+      80,
+      167,
+      94,
+      179
+    ],
+    "text": "$$\\begin{array}{c}10^{-3} \\\\ 25^{+4} \\\\ (  0.96)   \\end{array}$$",
+    "reading_order": 1
+  },
+  {
+    "label": "para",
+    "bbox": [
+      83,
+      181,
+      284,
+      203
+    ],
+    "text": "Put specific - e.g.,\n\"How can we make creating java issues\nthan: \"How can we improve java issues?\"",
+    "reading_order": 2
+  },
+  {
+    "label": "sec",
+    "bbox": [
+      87,
+      284,
+      94,
+      291
+    ],
+    "text": "10",
+    "reading_order": 3
+  },
+  {
+    "label": "sub_sec",
+    "bbox": [
+      87,
+      298,
+      138,
+      305
+    ],
+    "text": "1",
+    "reading_order": 4
+  },
+  {
+    "label": "para",
+    "bbox": [
+      87,
+      305,
+      211,
+      313
+    ],
+    "text": "10",
+    "reading_order": 5
+  },
+  {
+    "label": "para",
+    "bbox": [
+      79,
+      313,
+      284,
+      342
+    ],
+    "text": "on\non in the middle of the board,",
+    "reading_order": 6
+  },
+  {
+    "label": "foot",
+    "bbox": [
+      240,
+      363,
+      262,
+      371
+    ],
+    "text": "${ }^{24,350}$",
+    "reading_order": 7
+  },
+  {
+    "label": "fig",
+    "text": "![Figure](figures/diagram_figure_008.png)",
+    "figure_path": "figures/diagram_figure_008.png",
+    "bbox": [
+      321,
+      43,
+      627,
+      269
+    ],
+    "reading_order": 8
+  },
+  {
+    "label": "sub_sec",
+    "bbox": [
+      313,
+      284,
+      328,
+      291
+    ],
+    "text": "1",
+    "reading_order": 9
+  },
+  {
+    "label": "para",
+    "bbox": [
+      321,
+      298,
+      350,
+      305
+    ],
+    "text": "10",
+    "reading_order": 10
+  },
+  {
+    "label": "para",
+    "bbox": [
+      307,
+      305,
+      408,
+      327
+    ],
+    "text": "$$\\begin{array}{l}\\text { ffp: } \\\\ \\text { branch out }\\end{array}$$",
+    "reading_order": 11
+  },
+  {
+    "label": "fig",
+    "text": "![Figure](figures/diagram_figure_012.png)",
+    "figure_path": "figures/diagram_figure_012.png",
+    "bbox": [
+      312,
+      331,
+      423,
+      378
+    ],
+    "reading_order": 12
+  },
+  {
+    "label": "sec",
+    "bbox": [
+      430,
+      284,
+      445,
+      291
+    ],
+    "text": "1",
+    "reading_order": 13
+  },
+  {
+    "label": "sub_sec",
+    "bbox": [
+      430,
+      297,
+      489,
+      309
+    ],
+    "text": "$$\\text { Stem:1 }$$",
+    "reading_order": 14
+  },
+  {
+    "label": "para",
+    "bbox": [
+      430,
+      309,
+      642,
+      329
+    ],
+    "text": "$$\\begin{array}{c}\\text { Grab the gold coins } \\\\ \\text { Grade the gold coins }\\end{array}$$",
+    "reading_order": 15
+  },
+  {
+    "label": "para",
+    "bbox": [
+      430,
+      329,
+      643,
+      369
+    ],
+    "text": "Go back over your mind map and highlight the ideas that\nwith you, is there anything missing: Oz are there ideas w-\nfurther?\nWith any luck, yooh! have hit upon one or two ideas that",
+    "reading_order": 16
+  },
+  {
+    "label": "foot",
+    "bbox": [
+      635,
+      371,
+      657,
+      372
+    ],
+    "text": "$$\\begin{aligned}\n& =\\frac{1}{2}(-3)^{2}+\\frac{1}{4}(-3)^{2}, \\\\\n& =\\frac{1}{2}(-3)^{2}+\\frac{1}{2}(-3)^{2} ;\n\\end{aligned}$$",
+    "reading_order": 17
+  }
+]

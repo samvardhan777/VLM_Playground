@@ -1,0 +1,100 @@
+{
+  "image_name": "flow_chart",
+  "image_size": {
+    "width": 926,
+    "height": 644
+  },
+  "layout_output": "[0.01,0.17,0.08,0.20] fig[PAIR_SEP][0.25,0.16,0.77,0.79] fig[PAIR_SEP][0.04,0.32,0.06,0.68] fig[PAIR_SEP][0.04,0.80,0.06,0.82] foot[PAIR_SEP][0.85,0.80,0.99,0.83] foot",
+  "elements": [
+    {
+      "element_id": 0,
+      "label": "fig",
+      "bbox": [
+        0.01,
+        0.17,
+        0.08,
+        0.2
+      ],
+      "pixel_bbox": [
+        9,
+        109,
+        74,
+        128
+      ],
+      "text": "[Figure: 65x19] Saved to: /media/test/figures/flow_chart_fig_000.png",
+      "reading_order": 0
+    },
+    {
+      "element_id": 1,
+      "label": "fig",
+      "bbox": [
+        0.25,
+        0.16,
+        0.77,
+        0.79
+      ],
+      "pixel_bbox": [
+        231,
+        103,
+        713,
+        508
+      ],
+      "text": "[Figure: 482x405] Saved to: /media/test/figures/flow_chart_fig_001.png",
+      "reading_order": 1
+    },
+    {
+      "element_id": 2,
+      "label": "fig",
+      "bbox": [
+        0.04,
+        0.32,
+        0.06,
+        0.68
+      ],
+      "pixel_bbox": [
+        37,
+        206,
+        55,
+        437
+      ],
+      "text": "[Figure: 18x231] Saved to: /media/test/figures/flow_chart_fig_002.png",
+      "reading_order": 2
+    },
+    {
+      "element_id": 3,
+      "label": "foot",
+      "bbox": [
+        0.04,
+        0.8,
+        0.06,
+        0.82
+      ],
+      "pixel_bbox": [
+        37,
+        515,
+        55,
+        528
+      ],
+      "text": "[0.49,0.46,0.51,0.47] header[PAIR_SEP][0.38,0.48,0.62,0.51] para[PAIR_SEP][0.38,0.52,0.62,0.54] para[PAIR_SEP][0.38,0.54,0.62,0.56] para[PAIR_SEP][0.38,0.56,0.62,0.58] para[PAIR_SEP][0.38,0.58,0.62,0.60] para[PAIR_SEP][0.38,0.60,0.62,0.61] para[PAIR_SEP][0.38,0.61,0.62,0.62] para[PAIR_SEP][0.38,0.62,0.62,0.64] para[PAIR_SEP][0.38,0.64,0.62,0.65] para[PAIR_SEP][0.38,0.65,0.62,0.66] para[PAIR_SEP][0.38,0.66,0.62,0.68] para[PAIR_SEP][0.38,0.68,0.62,0.70] para[PAIR_SEP][0.38,0.70,0.62,0.71] para[PAIR_SEP][0.38,0.71,0.62,0.72] para[PAIR_SEP][0.38,0.72,0.62,0.74] para",
+      "reading_order": 3
+    },
+    {
+      "element_id": 4,
+      "label": "foot",
+      "bbox": [
+        0.85,
+        0.8,
+        0.99,
+        0.83
+      ],
+      "pixel_bbox": [
+        787,
+        515,
+        916,
+        534
+      ],
+      "text": "[0.43,0.49,0.57,0.51] para[PAIR_SEP][0.43,0.52,0.56,0.53] para",
+      "reading_order": 4
+    }
+  ]
+}
